@@ -4,9 +4,10 @@
 "컴퓨터 밑바닥의 비밀"을 읽으며 하드웨어부터 소프트웨어까지 컴퓨터의 동작 원리를 깊이 있게 이해합니다.
 
 ## 👥 스터디 멤버
-- 기현 (@pgh97)
-- 박종훈 (@chapakook)
-- 심보경 (@simbokyung98)
+- 박기현 ([pgh97](https://github.com/pgh97))
+- 박종훈 ([chapakook](https://github.com/chapakook))
+- 심보경 ([simbokyung98](https://github.com/simbokyung98))
+- 김태훈 ([xogns4909](https://github.com/xogns4909))
 
 ## 📅 스터디 일정
 - **기간**: 2026년 2월 ~ 2026년 4월 (예정)
